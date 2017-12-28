@@ -1,5 +1,5 @@
 #登録馬データ作成は一旦ペンド
-class DisassembleRaceCode
+class DisassembleRegisteredHorseCode
   COURSE_CODE_POSITION = (0..1)
   YEAR_CODE_POSITION = (2..3)
   TIMES_CODE_POSITION = 4
